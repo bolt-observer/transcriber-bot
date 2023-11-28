@@ -24,5 +24,6 @@ python transcriberbot.py
 ![image](https://github.com/bolt-observer/transcriber-bot/assets/4439523/d09c733b-b2f9-4001-a646-44b52848b7d9)
 
 ## Todo
-- audio file handling
+- audio file filtering
+- inline commands so it can transcribe voice msgs in groups
 - better error handling
