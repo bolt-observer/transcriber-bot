@@ -23,4 +23,3 @@ python transcriberbot.py
 ## Todo
 - audio file handling
 - better error handling
-- delete files after processing 
