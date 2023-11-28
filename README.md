@@ -20,6 +20,9 @@ python transcriberbot.py
 
 `MODEL_PATH` - Download one of the whisper models converted to ggml format from [HuggingFace](https://huggingface.co/ggerganov/whisper.cpp) and put the path to the file in `settings.py`. Example `MODEL_PATH="~/whisper.cpp/models/ggml-base.en.bin"`
 
+## Demo
+![image](https://github.com/bolt-observer/transcriber-bot/assets/4439523/d09c733b-b2f9-4001-a646-44b52848b7d9)
+
 ## Todo
 - audio file handling
 - better error handling
