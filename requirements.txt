@@ -1,0 +1,5 @@
+telegram
+asyncio
+nest_asyncio
+pywhispercpp
+pydub
